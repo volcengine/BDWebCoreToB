@@ -1,0 +1,16 @@
+PODS:
+  - BDWebCoreToB (0.1.0)
+
+DEPENDENCIES:
+  - BDWebCoreToB (from `../`)
+
+EXTERNAL SOURCES:
+  BDWebCoreToB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BDWebCoreToB: 23e174108978b9e32cc5a7ff00973d4b8dd29a4c
+
+PODFILE CHECKSUM: 15b85f67702fb80eab8efe680d3d620e1aaff605
+
+COCOAPODS: 1.10.2
